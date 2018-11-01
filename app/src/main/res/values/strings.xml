@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dental</string>
+    <string name="todo">TODO</string>
+    <string name="userhint">FULL NAME</string>
+    <string name="mob">MOBILE NUMBER</string>
+    <string name="password">PASSWORD</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="register">REGISTER</string>
+    <string name="have_an_account">Have an Account? </string>
+    <string name="login">Login</string>
+    <string name="next">NEXT</string>
+    <string name="today">Today</string>
+    <string name="time_06_hrs_07_hrs_july_07">Time: 06 hrs-07 hrs, July 07</string>
+    <string name="from">From:</string>
+    <string name="abc_hospital_qt">ABC Hospital QT</string>
+</resources>
